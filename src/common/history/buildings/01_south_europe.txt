@@ -3223,13 +3223,13 @@
 		}
 	}
 	s:STATE_DOBRUDJA={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_DOBRUDJA"
 					}
@@ -3242,7 +3242,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_DOBRUDJA"
 					}
@@ -3255,7 +3255,7 @@
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_EASTERN_THRACE"
 					}
@@ -3267,7 +3267,7 @@
 				building="building_port"
 				add_ownership={
 					country={
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 					}
 				}
@@ -3279,13 +3279,13 @@
 		}
 	}
 	s:STATE_ALBANIA={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_textile_mills"
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ALBANIA"
 					}
@@ -3298,7 +3298,7 @@
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_ALBANIA"
 					}
@@ -3311,13 +3311,13 @@
 				add_ownership={
 					building={
 						type="building_logging_camp"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ALBANIA"
 					}
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ALBANIA"
 					}
@@ -3329,7 +3329,7 @@
 				building="building_port"
 				add_ownership={
 					country={
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 					}
 				}
@@ -3339,13 +3339,13 @@
 		}
 	}
 	s:STATE_BOSNIA={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_tooling_workshops"
 				add_ownership={
 					building={
 						type="building_tooling_workshops"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_BOSNIA"
 					}
@@ -3357,7 +3357,7 @@
 				building="building_arms_industry"
 				add_ownership={
 					country={
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 					}
 				}
@@ -3368,7 +3368,7 @@
 				building="building_artillery_foundries"
 				add_ownership={
 					country={
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 					}
 				}
@@ -3380,13 +3380,13 @@
 				add_ownership={
 					building={
 						type="building_iron_mine"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=3
 						region="STATE_BOSNIA"
 					}
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_BOSNIA"
 					}
@@ -3399,7 +3399,7 @@
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_BOSNIA"
 					}
@@ -3412,7 +3412,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_BOSNIA"
 					}
@@ -3423,13 +3423,13 @@
 		}
 	}
 	s:STATE_NORTHERN_THRACE={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_furniture_manufacturies"
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_NORTHERN_THRACE"
 					}
@@ -3442,7 +3442,7 @@
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_NORTHERN_THRACE"
 					}
@@ -3455,7 +3455,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_NORTHERN_THRACE"
 					}
@@ -3468,7 +3468,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=3
 						region="STATE_NORTHERN_THRACE"
 					}
@@ -3481,7 +3481,7 @@
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=3
 						region="STATE_NORTHERN_THRACE"
 					}
@@ -3492,13 +3492,13 @@
 		}
 	}
 	s:STATE_BULGARIA={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_furniture_manufacturies"
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=3
 						region="STATE_BULGARIA"
 					}
@@ -3511,7 +3511,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_BULGARIA"
 					}
@@ -3524,7 +3524,7 @@
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=4
 						region="STATE_BULGARIA"
 					}
@@ -3853,14 +3853,14 @@
 		}
 	}
 	s:STATE_MONTENEGRO={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
-						levels=1
+						country="c:BYZ"
+						levels=2
 						region="STATE_MONTENEGRO"
 					}
 				}
@@ -3868,21 +3868,7 @@
 				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated"  }
 			}
 		}
-		region_state:MON={
-			create_building={
-				building="building_livestock_ranch"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:MON"
-						levels=1
-						region="STATE_MONTENEGRO"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated"  }
-			}
-		}
+
 		region_state:AUS={
 			create_building={
 				building="building_port"
@@ -3941,19 +3927,19 @@
 		}
 	}
 	s:STATE_SOUTHERN_SERBIA={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_SOUTHERN_SERBIA"
 					}
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_EASTERN_THRACE"
 					}
@@ -3966,7 +3952,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_SOUTHERN_SERBIA"
 					}
@@ -3977,13 +3963,13 @@
 		}
 	}
 	s:STATE_CRETE={
-		region_state:EGY={
+		region_state:BYZ={
 			create_building={
 				building="building_cotton_plantation"
 				add_ownership={
 					building={
 						type="building_cotton_plantation"
-						country="c:EGY"
+						country="c:BYZ"
 						levels=1
 						region="STATE_CRETE"
 					}
@@ -3996,7 +3982,7 @@
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:EGY"
+						country="c:BYZ"
 						levels=1
 						region="STATE_CRETE"
 					}
@@ -4008,7 +3994,7 @@
 				building="building_port"
 				add_ownership={
 					country={
-						country="c:EGY"
+						country="c:BYZ"
 						levels=1
 					}
 				}
@@ -4018,13 +4004,13 @@
 		}
 	}
 	s:STATE_WEST_AEGEAN_ISLANDS={
-		region_state:GRE={
+		region_state:BYZ={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_WEST_AEGEAN_ISLANDS"
 					}
@@ -4035,13 +4021,13 @@
 		}
 	}
 	s:STATE_EAST_AEGEAN_ISLANDS={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_EAST_AEGEAN_ISLANDS"
 					}
@@ -4052,12 +4038,12 @@
 		}
 	}
 	s:STATE_ATTICA={
-		region_state:GRE={
+		region_state:BYZ={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
 					country={
-						country="c:GRE"
+						country="c:BYZ"
 						levels=2
 					}
 				}
@@ -4069,7 +4055,7 @@
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ATTICA"
 					}
@@ -4082,7 +4068,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ATTICA"
 					}
@@ -4095,7 +4081,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ATTICA"
 					}
@@ -4108,7 +4094,7 @@
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ATTICA"
 					}
@@ -4121,7 +4107,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ATTICA"
 					}
@@ -4134,13 +4120,13 @@
 				add_ownership={
 					building={
 						type="building_logging_camp"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ATTICA"
 					}
 					building={
 						type="building_financial_district"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_ATTICA"
 					}
@@ -4153,7 +4139,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=2
 						region="STATE_ATTICA"
 					}
@@ -4165,7 +4151,7 @@
 				building="building_port"
 				add_ownership={
 					country={
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 					}
 				}
@@ -4175,12 +4161,12 @@
 		}
 	}
 	s:STATE_THESSALIA={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
 					country={
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 					}
 				}
@@ -4192,7 +4178,7 @@
 				add_ownership={
 					building={
 						type="building_textile_mills"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_THESSALIA"
 					}
@@ -4205,7 +4191,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_THESSALIA"
 					}
@@ -4218,7 +4204,7 @@
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_THESSALIA"
 					}
@@ -4231,7 +4217,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_THESSALIA"
 					}
@@ -4242,19 +4228,19 @@
 		}
 	}
 	s:STATE_SKOPIA={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_iron_mine"
 				add_ownership={
 					building={
 						type="building_iron_mine"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_SKOPIA"
 					}
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_EASTERN_THRACE"
 					}
@@ -4267,7 +4253,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=4
 						region="STATE_EASTERN_THRACE"
 					}
@@ -4280,7 +4266,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_SKOPIA"
 					}
@@ -4291,13 +4277,13 @@
 		}
 	}
 	s:STATE_MACEDONIA={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_food_industry"
 				add_ownership={
 					building={
 						type="building_food_industry"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_MACEDONIA"
 					}
@@ -4310,7 +4296,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_EASTERN_THRACE"
 					}
@@ -4323,7 +4309,7 @@
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_MACEDONIA"
 					}
@@ -4336,7 +4322,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_MACEDONIA"
 					}
@@ -4347,12 +4333,12 @@
 		}
 	}
 	s:STATE_WESTERN_THRACE={
-		region_state:TUR={
+		region_state:BYZ={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
 					country={
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 					}
 				}
@@ -4364,13 +4350,13 @@
 				add_ownership={
 					building={
 						type="building_textile_mills"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_WESTERN_THRACE"
 					}
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_WESTERN_THRACE"
 					}
@@ -4383,13 +4369,13 @@
 				add_ownership={
 					building={
 						type="building_glassworks"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=3
 						region="STATE_WESTERN_THRACE"
 					}
 					building={
 						type="building_financial_district"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 						region="STATE_WESTERN_THRACE"
 					}
@@ -4402,7 +4388,7 @@
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=3
 						region="STATE_WESTERN_THRACE"
 					}
@@ -4415,7 +4401,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=2
 						region="STATE_WESTERN_THRACE"
 					}
@@ -4428,7 +4414,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:TUR"
+						country="c:BYZ"
 						levels=3
 						region="STATE_WESTERN_THRACE"
 					}
@@ -4440,7 +4426,7 @@
 				building="building_port"
 				add_ownership={
 					country={
-						country="c:TUR"
+						country="c:BYZ"
 						levels=1
 					}
 				}
@@ -4450,13 +4436,13 @@
 		}
 	}
 	s:STATE_IONIAN_ISLANDS={
-		region_state:ION={
+		region_state:BYZ={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
 					building={
 						type="building_wheat_farm"
-						country="c:ION"
+						country="c:BYZ"
 						levels=1
 						region="STATE_IONIAN_ISLANDS"
 					}
@@ -4469,7 +4455,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:ION"
+						country="c:BYZ"
 						levels=1
 						region="STATE_IONIAN_ISLANDS"
 					}
@@ -4482,7 +4468,7 @@
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:ION"
+						country="c:BYZ"
 						levels=1
 						region="STATE_IONIAN_ISLANDS"
 					}
@@ -4494,7 +4480,7 @@
 				building="building_port"
 				add_ownership={
 					country={
-						country="c:ION"
+						country="c:BYZ"
 						levels=1
 					}
 				}
@@ -4504,13 +4490,13 @@
 		}
 	}
 	s:STATE_PELOPONNESE={
-		region_state:GRE={
+		region_state:BYZ={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_PELOPONNESE"
 					}
@@ -4523,7 +4509,7 @@
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 						region="STATE_PELOPONNESE"
 					}
@@ -4535,7 +4521,7 @@
 				building="building_port"
 				add_ownership={
 					country={
-						country="c:GRE"
+						country="c:BYZ"
 						levels=1
 					}
 				}
