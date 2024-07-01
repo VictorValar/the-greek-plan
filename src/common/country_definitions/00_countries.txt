@@ -1079,7 +1079,7 @@ TUR = {
 	tier = empire
 	
 	cultures = { turkish }
-	capital = STATE_EASTERN_THRACE
+	capital = STATE_ERZURUM
 }
 
 WAL = {
