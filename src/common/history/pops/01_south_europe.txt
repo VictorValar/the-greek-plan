@@ -428,11 +428,11 @@
 		region_state:BYZ = {
 			create_pop = {
 				culture = greek
-				size = 832996
+				size = 1114988
 			}
 			create_pop = {
 				culture = turkish
-				size = 281992
+				size = 1819
 			}
 			create_pop = {
 				culture = north_italian
