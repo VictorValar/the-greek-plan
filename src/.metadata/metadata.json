@@ -2,7 +2,7 @@
   "name" : "Empire of the Romans: Constantinople Never Fell",
   "id" : "In an alternate history where Constantinople never fell to the Ottomans in 1453, the Empire of the Romans (Byzantine Empire) not only survived but thrived. Through a series of strategic alliances, military reforms, and economic revitalization, the Romans managed to repel the Ottoman siege and gradually reconquer lost territories.",
   "version" : "0.1",
-  "supported_game_version" : "1.7.*",
+  "supported_game_version" : "1.7.2",
   "short_description" : "",
   "tags" : [],
   "relationships" : [],
