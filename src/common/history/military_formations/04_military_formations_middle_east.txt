@@ -2,30 +2,30 @@
 	c:TUR ?= {
 		create_military_formation = {
 			type = army
-			hq_region = sr:region_balkans
+			hq_region = sr:region_arabic
 			name = Hassa_Ordusu
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_BULGARIA
+				state_region = s:STATE_ERZURUM
 				count = 10
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
-				state_region = s:STATE_WESTERN_THRACE
+				state_region = s:STATE_ERZURUM
 				count = 10
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_hussars
-				state_region = s:STATE_BOSNIA
+				state_region = s:STATE_ERZURUM
 				count = 5
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_cannon_artillery
-				state_region = s:STATE_NORTHERN_THRACE
+				state_region = s:STATE_ERZURUM
 				count = 5
 			}
 			save_scope_as = hassa_ordusu
@@ -57,18 +57,18 @@
 
 		create_military_formation = {
 			type = army
-			hq_region = sr:region_balkans
+			hq_region = sr:region_arabic
 			name = Rumeli_Ordusu
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_THESSALIA
+				state_region = s:STATE_ADANA
 				count = 15
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
-				state_region = s:STATE_SOUTHERN_SERBIA
+				state_region = s:STATE_ADANA
 				count = 10
 			}
 
@@ -80,25 +80,25 @@
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_hussars
-				state_region = s:STATE_ANKARA
+				state_region = s:STATE_ADANA
 				count = 10
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
-				state_region = s:STATE_MACEDONIA
+				state_region = s:STATE_ADANA
 				count = 5
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_hussars
-				state_region = s:STATE_SKOPIA
+				state_region = s:STATE_ADANA
 				count = 5
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_cannon_artillery
-				state_region = s:STATE_SKOPIA
+				state_region = s:STATE_ADANA
 				count = 2
 			}
 
@@ -132,13 +132,13 @@
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_EASTERN_THRACE
+				state_region = s:STATE_ADANA
 				count = 20
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_cannon_artillery
-				state_region = s:STATE_ANKARA
+				state_region = s:STATE_ADANA
 				count = 2
 			}
 		}
@@ -168,25 +168,25 @@
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
-				state_region = s:STATE_HUDAVENDIGAR
+				state_region = s:STATE_ERZURUM
 				count = 15
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
-				state_region = s:STATE_AYDIN
+				state_region = s:STATE_ERZURUM
 				count = 10
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_hussars
-				state_region = s:STATE_KONYA
+				state_region = s:STATE_ERZURUM
 				count = 5
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_cannon_artillery
-				state_region = s:STATE_KASTAMONU
+				state_region = s:STATE_ERZURUM
 				count = 3
 			}
 		}
@@ -198,43 +198,43 @@
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_man_o_war
-				state_region = s:STATE_HUDAVENDIGAR
+				state_region = s:STATE_ADANA
 				count = 6
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_man_o_war
-				state_region = s:STATE_EASTERN_THRACE
+				state_region = s:STATE_PALESTINE
 				count = 10
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_man_o_war
-				state_region = s:STATE_AYDIN
+				state_region = s:STATE_CYPRUS
 				count = 1
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
-				state_region = s:STATE_EASTERN_THRACE
+				state_region = s:STATE_ADANA
 				count = 7
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
-				state_region = s:STATE_HUDAVENDIGAR
+				state_region = s:STATE_ADANA
 				count = 4
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
-				state_region = s:STATE_AYDIN
+				state_region = s:STATE_LEBANON
 				count = 2
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
-				state_region = s:STATE_MACEDONIA
+				state_region = s:STATE_ALEPPO
 				count = 3
 			}
 		}
