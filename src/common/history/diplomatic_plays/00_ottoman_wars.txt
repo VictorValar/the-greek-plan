@@ -1,0 +1,17 @@
+﻿DIPLOMATIC_PLAYS = {
+	c:BYZ = {
+		create_diplomatic_play = {
+			name = roman_war_of_reconquest
+			target_country = c:TUR
+			war = yes
+			type = dp_annex_war
+		}
+
+		change_infamy = -72
+			
+	}
+
+	# change_infamy = -72
+}
+
+

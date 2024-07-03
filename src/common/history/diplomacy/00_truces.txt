@@ -8,15 +8,6 @@
 }
 
 DIPLOMACY = {
-	c:EGY= {
-		create_bidirectional_truce = {
-			country = c:TUR
-			months = 48
-		}
-	}	
-}
-
-DIPLOMACY = {
 	c:ASH= {
 		create_bidirectional_truce = {
 			country = c:GBR

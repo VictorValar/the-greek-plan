@@ -211,20 +211,20 @@
 		create_diplomatic_pact = {
 			country = c:HDJ
 			type = tributary
-		}
-		create_diplomatic_pact = {
-			country = c:TRI
-			type = puppet
 		}	
-		create_diplomatic_pact = {
-			country = c:TUN
-			type = protectorate
-		}
 	}
 	c:TUR = {
 		create_diplomatic_pact = {
 			country = c:JAB
+			type = protectorate
+		}
+		create_diplomatic_pact = {
+			country = c:TRI
 			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:TUN
+			type = protectorate
 		}
 	}
 	c:BYZ = {

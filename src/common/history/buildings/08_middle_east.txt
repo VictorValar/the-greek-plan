@@ -343,13 +343,13 @@
 		}
 	}
 	s:STATE_TRANSJORDAN={
-		region_state:EGY={
+		region_state:TUR={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:EGY"
+						country="c:TUR"
 						levels=1
 						region="STATE_TRANSJORDAN"
 					}
@@ -364,13 +364,13 @@
 		}
 	}
 	s:STATE_PALESTINE={
-		region_state:EGY={
+		region_state:TUR={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:EGY"
+						country="c:TUR"
 						levels=1
 						region="STATE_PALESTINE"
 					}
@@ -383,7 +383,7 @@
 				add_ownership={
 					building={
 						type="building_livestock_ranch"
-						country="c:EGY"
+						country="c:TUR"
 						levels=1
 						region="STATE_PALESTINE"
 					}
@@ -394,13 +394,13 @@
 		}
 	}
 	s:STATE_LEBANON={
-		region_state:EGY={
+		region_state:TUR={
 			create_building={
 				building="building_millet_farm"
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:EGY"
+						country="c:TUR"
 						levels=1
 						region="STATE_LEBANON"
 					}
@@ -413,7 +413,7 @@
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:EGY"
+						country="c:TUR"
 						levels=1
 						region="STATE_LEBANON"
 					}
@@ -426,7 +426,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:EGY"
+						country="c:TUR"
 						levels=1
 						region="STATE_LEBANON"
 					}
@@ -437,12 +437,12 @@
 		}
 	}
 	s:STATE_SYRIA={
-		region_state:EGY={
+		region_state:TUR={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
 					country={
-						country="c:EGY"
+						country="c:TUR"
 						levels=3
 					}
 				}
@@ -454,7 +454,7 @@
 				add_ownership={
 					building={
 						type="building_glassworks"
-						country="c:EGY"
+						country="c:TUR"
 						levels=1
 						region="STATE_SYRIA"
 					}
@@ -467,7 +467,7 @@
 				add_ownership={
 					building={
 						type="building_textile_mills"
-						country="c:EGY"
+						country="c:TUR"
 						levels=1
 						region="STATE_SYRIA"
 					}
@@ -480,7 +480,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:EGY"
+						country="c:TUR"
 						levels=2
 						region="STATE_SYRIA"
 					}
@@ -493,7 +493,7 @@
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:EGY"
+						country="c:TUR"
 						levels=2
 						region="STATE_SYRIA"
 					}
@@ -605,7 +605,7 @@
 						type="building_manor_house"
 						country="c:TUR"
 						levels=3
-						region="STATE_EASTERN_THRACE"
+						region="STATE_ERZURUM"
 					}
 				}
 				reserves=1

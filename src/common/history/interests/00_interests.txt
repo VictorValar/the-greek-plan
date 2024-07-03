@@ -63,8 +63,6 @@
 	c:EGY ?= {
 		add_declared_interest = region_north_africa
 		add_declared_interest = region_niger
-		add_declared_interest = region_zanj
-		add_declared_interest = region_congo
 	}		
 	c:CHL ?= {	
 		add_declared_interest = region_andes		
