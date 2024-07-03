@@ -6,12 +6,8 @@
 			war = yes
 			type = dp_annex_war
 		}
-
-		change_infamy = -72
-			
+		change_infamy = -112
 	}
-
-	# change_infamy = -72
 }
 
 
