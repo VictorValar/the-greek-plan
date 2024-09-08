@@ -5738,8 +5738,6 @@ STATES = {
 		add_homeland = cu:armenian
 		add_homeland = cu:kurdish
 		add_homeland = cu:georgian
-
-		add_claim = c:BYZ
 	}
 	s:STATE_CRETE = {
 		create_state = {
@@ -5906,8 +5904,6 @@ STATES = {
 		add_homeland = cu:kurdish
 		add_homeland = cu:mashriqi
 		add_homeland = cu:assyrian
-
-		add_claim = c:BYZ
 	}
 	s:STATE_BANGKOK = {
 		create_state = {
@@ -6751,7 +6747,6 @@ STATES = {
 			}
 		}
 		add_homeland = cu:kazak
-		add_homeland = cu:uighur
 		add_homeland = cu:kirgiz
 	}
 	s:STATE_JETISY = {

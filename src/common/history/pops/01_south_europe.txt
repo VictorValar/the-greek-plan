@@ -535,7 +535,7 @@
 			create_pop = {
 				culture = bosniak
 				size = 304908
-			} 
+			}
 			create_pop = {
 				culture = sephardic
 				size = 3196
