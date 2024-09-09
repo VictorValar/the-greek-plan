@@ -1,12 +1,12 @@
 {
-  "name" : "Empire of the Romans: Romanov Restauration",
-  "id" : "In an alternate history where the greek roman empire was restored by Catherine The Great, the Empire of the Romans thrived. Through a series of strategic alliances, military reforms, and economic revitalization, the Romans managed to repel the Ottoman and gradually reconquer lost territories.",
-  "version" : "0.1",
-  "supported_game_version" : "1.7.6",
-  "short_description" : "",
-  "tags" : [],
-  "relationships" : [],
-  "game_custom_data" : {
-    "multiplayer_synchronized" : true
-  }
+    "name": "The Greek Plan: Eastern Roman Empire restored",
+    "id": "",
+    "version": "0.1",
+    "supported_game_version": "1.7.6",
+    "short_description": "",
+    "tags": [],
+    "relationships": [],
+    "game_custom_data": {
+        "multiplayer_synchronized": true
+    }
 }
