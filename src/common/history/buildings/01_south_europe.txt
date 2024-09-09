@@ -3117,7 +3117,7 @@
 				}
 				reserves=1
 				activate_production_methods={ "pm_pulp_pressing" "pm_automation_disabled"  }
-			}
+			}			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
