@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define the source and destination directories
-sourceDir="/home/valar/dev/empire-of-the-romans/src"
-destDir="/mnt/c/Users/victor.santos2/Documents/Paradox Interactive/Victoria 3/mod/Empire of the Romans" 
+sourceDir="/home/valar/dev/the-greek-plan/src"
+destDir="/mnt/c/Users/victor.santos2/Documents/Paradox Interactive/Victoria 3/mod/Empire of the Romans"
 # Check if the source directory exists
 if [ ! -d "$sourceDir" ]; then
     echo "Source directory does not exist: $sourceDir"
