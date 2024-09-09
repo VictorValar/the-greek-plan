@@ -1,5 +1,5 @@
 # The Greek Plan: Eastern Roman Empire Restored
-
+"The Greek Plan: Eastern Roman Empire Restored" is an alternative history mod for Victoria 3 that reimagines a world where the Greek Plan, envisioned by Catherine the Great, succeeded. In this timeline, following the decisive Russian victory at the Siege of Izmail, the Treaty of Jassy was never signed, fueling the Souliote War and leading to the restoration of the Eastern Roman Empire in 1795. The game begins in 1836 with the Roman Empire restored and at war with the Ottomans, while Russia and the other great powers of Europe navigate the reshaped balance of power. Players can control the restored Roman Empire or guide other nations through this dynamic alternate history.
 # Axioms
 - Treaty of Jassy was never signed
 - The Greek Plan was successful in creating the Kingdom of Dacia and restoring the Eastern Roman Empire
