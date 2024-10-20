@@ -1,28 +1,53 @@
-# The Greek Plan: Eastern Roman Empire Restored
-"The Greek Plan: Eastern Roman Empire Restored" is an alternative history mod for Victoria 3 that reimagines a world where the Greek Plan, envisioned by Catherine the Great, succeeded. In this timeline, following the decisive Russian victory at the Siege of Izmail, the Treaty of Jassy was never signed, fueling the Souliote War and leading to the restoration of the Eastern Roman Empire in 1795. The game begins in 1836 with the Roman Empire restored and at war with the Ottomans, while Russia and the other great powers of Europe navigate the reshaped balance of power. Players can control the restored Roman Empire or guide other nations through this dynamic alternate history.
-# Axioms
-- Treaty of Jassy was never signed
-- The Greek Plan was successful in creating the Kingdom of Dacia and restoring the Eastern Roman Empire
+# The Greek Plan: ~~Eastern~~ Roman Empire Restored
+
+This alternative history mod envisions a world
+where Catherine the Great's [Greek Plan](https://en.wikipedia.org/wiki/Greek_Plan) triumphed, reshaping the outcome of the [Eastern Question](https://en.wikipedia.org/wiki/Eastern_question)
+
+Following the decisive Russian victory at the [Siege of Izmail](https://en.wikipedia.org/wiki/Siege_of_Izmail), the [Treaty of Jassy](https://en.wikipedia.org/wiki/Treaty_of_Jassy) was never signed, fueling the [Souliote War](https://en.wikipedia.org/wiki/Souliote_War_(1789%E2%80%931793)) and enabling Russia to push the Ottomans out of Europe. In 1795, this led to the restoration of the ~~Eastern~~ Roman Empire.
+
+At game start in 1836, the Empire stands reborn but locked in a fierce struggle to drive the Ottomans from Anatolia.  
+
+
+
+# Inflection Points
+- [Treaty of Jassy](https://en.wikipedia.org/wiki/Treaty_of_Jassy) was never signed
+- The [Greek Plan](https://en.wikipedia.org/wiki/Greek_Plan) was successful in creating the Kingdom of Dacia and restoring the ~~Eastern~~ Roman Empire
 - [Catherine the Great](https://en.wikipedia.org/wiki/Catherine_the_Great) installs her grandson [Grand Duke Konstantin Pavlovich of Russia](https://en.wikipedia.org/wiki/Grand_Duke_Konstantin_Pavlovich_of_Russia) as **Emperor Konstantin Konstantinov** of the Roman Empire in 1795
 
 # Planned features
-- ~~Add Roman Empire~~
-- Add Characters
-	- Emperor Konstantin Konstantinov
-	- King of Dacia
-- ADD Great Restauration journal entry:
-	Gain claims on:
-	- Levant
-	- North Africa
-	- Italy
-	- Iberia
-	- Gallia
-	- Britannia
-	After Great Restauration Plan is accepted , there's a chance (a function of the roman laws, owned territories and relations) that the other great powers will become aware of the GRP causing massive deterioration of relations.
--  Roman Commune
-	- Add communist rome events
+### Countries
+- ~~Roman Empire~~
+- Roman Republic
+- Roman Commune
 - Kingdom of Dacia
-	- Add the Kingdom of Dacia as a buffer between the russians and romans. Will the romans risk war with the russians, somehow taking Dacia for its vast resources?
+  - A buffer between the russians and romans. Will the romans risk war with the russians, somehow taking Dacia for its vast resources?  
+
+### Characters
+- Emperor Konstantin Konstantinov
+- King of Dacia
+
+### Events
+- Crossroad
+  1. Rome should focus on reconquering the western provinces  
+     - Gains "The Justinian Dream" journal entry
+  2. Rome should focus on expanding overseas colonies.
+
+
+### Journal Entries
+- The Justinian Dream: Great Restoration  
+	After Great Restoration Plan is accepted,
+	   here's a chance (a function of the roman laws, owned territories and relations)
+	   that the other great powers will become aware of the GRP causing massive deterioration of relations.  
+	** Progressively Gain claims on:**
+     - Levant
+     - North Africa
+     - Italy
+     - Iberia
+     - Gallia
+     - Britannia  
+   
+- Communist Revolution
+- Republican Reform
 
 # Historical Context (From Wikipedia):
 - Catherine the Great
