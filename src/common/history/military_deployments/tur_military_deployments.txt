@@ -1,0 +1,12 @@
+﻿MILITARY_DEPLOYMENTS = {
+    c:TUR ?= {
+
+        every_military_formation = {
+            limit = {
+                is_army = yes
+            }
+            fully_mobilize_army = yes
+            p:x5E4B3A.front
+        }
+    }
+}
