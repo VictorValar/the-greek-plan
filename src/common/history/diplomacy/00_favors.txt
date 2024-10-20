@@ -4,10 +4,6 @@
 			country = c:RUS
 			setting = yes
 		}
-		set_owes_obligation_to = {
-			country = c:GBR 
-			setting = yes
-		}
 	}
 	c:POR ?= {
 		set_owes_obligation_to = {

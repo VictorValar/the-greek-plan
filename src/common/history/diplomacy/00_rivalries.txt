@@ -4,6 +4,11 @@
 			country = c:AUS
 			type = rivalry
 		}
+
+		create_diplomatic_pact = {
+			country = c:TUR
+			type = rivalry
+		}
 	}
 	c:AUS ?= {
 		create_diplomatic_pact = {
@@ -46,6 +51,10 @@
 	c:TUR ?= {
 		create_diplomatic_pact = {
 			country = c:RUS
+			type = rivalry
+		}
+		create_diplomatic_pact = {
+			country = c:BYZ
 			type = rivalry
 		}
 	}
