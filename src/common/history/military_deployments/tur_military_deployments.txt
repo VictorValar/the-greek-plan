@@ -6,7 +6,7 @@
                 is_army = yes
             }
             fully_mobilize_army = yes
-            p:x5E4B3A.front
+            teleport_to_front =p:x5E4B3A.front
         }
     }
 }

@@ -135,7 +135,7 @@
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_cannon_artillery
-				state_region = s:STATE_ERZURUM
+				state_region = s:STATE_BAGHDAD
 				count = 5
 			}
 			save_scope_as = hassa_ordusu
@@ -190,25 +190,25 @@
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_hussars
-				state_region = s:STATE_ADANA
+				state_region = s:STATE_KARS
 				count = 10
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
-				state_region = s:STATE_ADANA
+				state_region = s:STATE_KARS
 				count = 5
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_hussars
-				state_region = s:STATE_ADANA
+				state_region = s:STATE_KARS
 				count = 5
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_cannon_artillery
-				state_region = s:STATE_ADANA
+				state_region = s:STATE_KARS
 				count = 2
 			}
 
@@ -242,15 +242,34 @@
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_ADANA
+				state_region = s:STATE_SYRIA
 				count = 20
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_cannon_artillery
-				state_region = s:STATE_ADANA
+				state_region = s:STATE_SYRIA
 				count = 2
 			}
+
+			save_scope_as = Konstantiniyye_Ordusu
+		}
+
+		create_character = { # TUR, General
+			is_general = yes
+			historical = no
+			interest_group = ig_armed_forces
+			ideology = ideology_royalist
+			birth_date = 1790.2.11
+			hq = region_caucasus
+			traits = {
+				basic_defensive_strategist
+			}
+			save_scope_as = tur_generic_gen
+		}
+
+		scope:tur_generic_gen = {
+			transfer_to_formation = scope:Konstantiniyye_Ordusu
 		}
 
 		create_military_formation = {
@@ -266,42 +285,42 @@
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
-				state_region = s:STATE_ERZURUM
+				state_region = s:STATE_MOSUL
 				count = 5
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
 				state_region = s:STATE_KARS
-				count = 5
+				count = 3
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
-				state_region = s:STATE_ERZURUM
+				state_region = s:STATE_DIYARBAKIR
 				count = 15
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_irregular_infantry
-				state_region = s:STATE_ERZURUM
+				state_region = s:STATE_BAGHDAD
 				count = 10
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_hussars
-				state_region = s:STATE_ERZURUM
+				state_region = s:STATE_MOSUL
 				count = 5
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_cannon_artillery
-				state_region = s:STATE_ERZURUM
+				state_region = s:STATE_MOSUL
 				count = 3
 			}
 		}
 
-		create_military_formation = {
+		create_military_formation = { # Navy
 			type = fleet
 			hq_region = sr:region_anatolia
 			name = Donanmay_Humyn
