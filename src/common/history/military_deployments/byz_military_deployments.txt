@@ -1,0 +1,23 @@
+﻿MILITARY_DEPLOYMENTS = {
+    c:BYZ ?= {
+
+        random_scope_general = {
+			limit = {
+				has_trait = celebrity_commander
+			}
+
+			commander_military_formation = {
+				fully_mobilize_army = yes
+                teleport_to_front = p:x401080.front
+			}
+		}
+
+        #every_military_formation = {
+        #    limit = {
+        #        is_army = yes
+        #    }
+        #    fully_mobilize_army = yes
+        #    teleport_to_front = p:x401080.front
+        #}
+    }
+}

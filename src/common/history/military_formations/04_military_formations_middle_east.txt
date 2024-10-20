@@ -1,4 +1,114 @@
 ﻿MILITARY_FORMATIONS = {
+	c:BYZ ?= {
+		create_military_formation = { # Anatolian Greeks
+			type = army
+			hq_region = sr:region_anatolia
+			name = Romaiks_Strats
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_cannon_artillery
+				state_region = s:STATE_TRABZON
+				count = 5
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_KASTAMONU
+				count = 5
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_EASTERN_THRACE
+				count = 10
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_TRABZON
+				count = 5
+			}
+
+			combat_unit = {
+				type=unit_type:combat_unit_type_cannon_artillery
+				state_region = s:STATE_ALBANIA
+				count = 5
+			}
+
+			combat_unit = {
+				type=unit_type:combat_unit_type_hussars
+				state_region = s:STATE_ANKARA
+				count = 10
+			}
+
+			save_scope_as = Romaiks_Strats
+		}
+
+		create_character = {
+			is_general = yes
+			first_name = Alexios
+			last_name = Suvorov # Heir and grandson of Alexander Suvorov, re-conqueror of Constantinople
+			interest_group = ig_armed_forces
+			ideology = ideology_royalist
+			culture = cu:russian
+			historical = no
+			hq = region_anatolia
+			commander_rank = commander_rank_3
+			age = 60
+			traits = {
+				ambitious
+				celebrity_commander
+				experienced_political_operator
+			}
+			save_scope_as = alexios_gen
+		}
+
+		scope:alexios_gen = {
+			transfer_to_formation = scope:Romaiks_Strats
+		}
+
+		create_military_formation = { # Royal Navy
+			type = fleet
+			hq_region = sr:region_anatolia
+			name = Vasilikn_Naftikn
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_frigate
+				state_region = s:STATE_WEST_AEGEAN_ISLANDS
+				count = 5
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_frigate
+				state_region = s:STATE_EAST_AEGEAN_ISLANDS
+				count = 5
+			}
+
+			save_scope_as = Vasilikn_Naftikn
+		}
+
+		create_character = {
+			is_admiral = yes
+			first_name = Stefanos
+			last_name = Scafidopoulos
+			culture = cu:greek
+			interest_group = ig_armed_forces
+			ideology = ideology_royalist
+			historical = no
+			hq = region_anatolia
+			commander_rank = commander_rank_2
+			age = 45
+			traits = {
+				tactful
+			}
+			save_scope_as = stefanos_gen
+		}
+
+		scope:stefanos_gen = {
+			transfer_to_formation = scope:Vasilikn_Naftikn
+		}
+	}
+
 	c:TUR ?= {
 		create_military_formation = {
 			type = army
@@ -53,7 +163,7 @@
 
 		scope:lutfi_gen = {
 			transfer_to_formation = scope:hassa_ordusu
-		}		
+		}
 
 		create_military_formation = {
 			type = army
